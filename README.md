@@ -1,0 +1,1 @@
+In this project I scraped quotes from "https://quotes.toscrape.com/" using BeautifulSoup and requests libraries. It retrieves quotes and their authors from multiple pages and stores them in a list. Users can then play a guessing game where they try to match quotes with their respective authors. Hints are provided based on the number of remaining guesses.
